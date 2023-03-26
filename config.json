@@ -32,7 +32,6 @@
                 "Javascript",
                 "Other Python Libraries"
             ],
-            "category": "Full Stack Web",
             "languages": [
                 "Python"
             ]
@@ -45,7 +44,6 @@
                 "Java-Swing",
                 "Windowbuilder"
             ],
-            "category": "Back End",
             "languages": [
                 "Java"
             ]
@@ -62,7 +60,6 @@
                 "Bootstrap",
                 "LocalStorage"
             ],
-            "category": "Front End",
             "languages": [
                 "Javascript"
             ]
@@ -93,7 +90,6 @@
                 "Tkinter GUI",
                 "Multi-Threading"
             ],
-            "category": "Back End",
             "languages": [
                 "Python"
             ]
@@ -108,7 +104,6 @@
                 "OOP Design Patterns",
                 "TDD"
             ],
-            "category": "Back End",
             "languages": [
                 "C#"
             ]
@@ -125,7 +120,6 @@
                 "Javascript",
                 "Other Python Libraries"
             ],
-            "category": "Full Stack Web",
             "languages": [
                 "Python"
             ]

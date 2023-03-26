@@ -1,0 +1,95 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand b {
+    font-size: 25px;
+    line-height: 60px;
+    margin-left: 10px;
+}
+
+.card-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    display: block;
+}
+
+.border-bg-light {
+    border: 2px solid #f8f9fa;
+}
+
+.rounded-image {
+    border-radius: 12px;
+    /* Adjust the value to control the roundness of the corners */
+}
+
+.hover-effect {
+    transition: all 0.3s;
+}
+
+.hover-effect:hover {
+    transform: scale(1.05);
+    background-color: rgba(128, 128, 128, 0.3);
+}
+
+.hover-effect a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.hover-effect a:hover {
+    color: inherit;
+    text-decoration: none;
+}
+
+
+@media (max-width: 767px) {
+    .navbar-brand {
+        flex-grow: 1;
+    }
+
+    .form-inline {
+        width: 100%;
+        margin-top: 1rem;
+        display: flex;
+        align-items: center;
+    }
+
+    .form-inline .form-control {
+        width: calc(75% - .5rem);
+    }
+
+    .form-inline .btn {
+        width: 25%;
+        margin-left: .5rem;
+    }
+
+    .filter-container {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .filter-container .form-select {
+        flex: 1 0 100%;
+        margin-top: .5rem;
+    }
+
+    .filter-container .filter-btn {
+        margin-top: .5rem;
+    }
+
+    .navbar-brand img {
+        width: 45px;
+        height: 45px;
+    }
+
+    .navbar-brand #title {
+        font-size: 17px;
+    }
+
+    .navbar-brand #subtitle {
+        font-size: 12px;
+    }
+}

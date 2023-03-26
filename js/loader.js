@@ -5,7 +5,6 @@ function loadConfig(config) {
     op.set("subtitle", loadText)
     op.set("icondir", loadIcon)
     op.set("profiledir", loadProfile)
-    op.set("categories", loadOptions)
     op.set("languages", loadOptions)
     op.set("projects", loadProjects)
 
@@ -46,7 +45,7 @@ function loadProjects(key, prjs) {
     let projects = $("#" + key)
     prjs.forEach(p => {
         const pd = `
-            <div class="col-md-4 card mb-3 bg-light border-bg-light hover-effect data-category="${p.category}" data-languages="${p.languages.join(',')}">
+            <div class="col-md-4 card mb-3 bg-light border-bg-light hover-effect data-languages="${p.languages.join(',')}">
                 <a href="${p.url}" target="_blank">
                     <div>
                         <img class="rounded-image" width=100% src="${p.imgdir}" style="height: 150px; object-fit: cover;">
