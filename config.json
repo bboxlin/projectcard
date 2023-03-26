@@ -1,6 +1,8 @@
 {
+    "icondir": "img/icon.svg",
     "title": "Boxiang Lin",
-    "subtitle": "(SW Engineer)",
+    "profiledir": "img/icon.svg",
+    "subtitle": "(Software Engineer)",
     "categories": [
         "Full Stack Web",
         "Front End",
@@ -19,9 +21,9 @@
     ],
     "projects": [
         {
-            "title": "Research Network",
+            "title": "Campus Employement Platform",
             "url": "https://github.com/bboxlin/researchnetwork", 
-            "imgdir": "img/image-5.png",
+            "imgdir": "projectimg/researchnetwork.png",
             "technologies": [
                 "Python",
                 "SQLite",
@@ -36,50 +38,46 @@
             ]
         },
        {
-            "title": "Research Network",
-            "url": "https://github.com/bboxlin/researchnetwork", 
-            "imgdir": "img/image-5.png",
+            "title": "Encrypter, Decrypter, and Compressor",
+            "url": "https://bboxlin.github.io/boxdbox/", 
+            "imgdir": "projectimg/boxdbox.png",
             "technologies": [
-                "Flask-Python",
-                "SQLite",
-                "HTML",
-                "CSS",
-                "Javascript",
-                "Other Python Libraries"
+                "Java-Swing",
+                "Windowbuilder"
             ],
-            "category": "Full Stack Web",
+            "category": "Back End",
             "languages": [
-                "Python"
+                "Java"
             ]
        },
-              {
-            "title": "Research Network",
-            "url": "https://github.com/bboxlin/researchnetwork", 
-            "imgdir": "img/image-5.png",
+       {
+            "title": "CRUD Quiz Question & Take The Quiz",
+            "url": "https://bboxlin.github.io/freequiz/", 
+            "imgdir": "projectimg/freequiz.png",
             "technologies": [
-                "Flask-Python",
-                "SQLite",
+                "Javascript",
+                "JQuery",
                 "HTML",
                 "CSS",
-                "Javascript",
-                "Other Python Libraries"
+                "Bootstrap",
+                "LocalStorage"
             ],
-            "category": "Full Stack Web",
+            "category": "Front End",
             "languages": [
-                "Python"
+                "Javascript"
             ]
        },
         {
-            "title": "Research Network",
-            "url": "https://github.com/bboxlin/researchnetwork", 
-            "imgdir": "img/image-5.png",
+            "title": "Yelp Data Set Visualization",
+            "url": "https://github.com/bboxlin/yelpquerymaster", 
+            "imgdir": "projectimg/yelpquerymaster.png",
             "technologies": [
-                "Flask-Python",
-                "SQLite",
-                "HTML",
-                "CSS",
-                "Javascript",
-                "Other Python Libraries"
+                "C#",
+                "C# WPF",
+                "PostgreSQL",
+                "SQL",
+                "Python",
+                "Other C# Libraries"
             ],
             "category": "Full Stack Web",
             "languages": [
@@ -87,43 +85,38 @@
             ]
         },
         {
-            "title": "Research Network",
-            "url": "https://github.com/bboxlin/researchnetwork", 
-            "imgdir": "img/image-5.png",
+            "title": "Client-Server Chat and File Transfer",
+            "url": "https://github.com/bboxlin/boxcomm", 
+            "imgdir": "projectimg/boxcomm.png",
             "technologies": [
-                "Flask-Python",
-                "SQLite",
-                "HTML",
-                "CSS",
-                "Javascript",
-                "Other Python Libraries"
+                "Python",
+                "Tkinter GUI",
+                "Multi-Threading"
             ],
-            "category": "Full Stack Web",
+            "category": "Back End",
             "languages": [
                 "Python"
             ]
         },
         {
-            "title": "Research Network",
-            "url": "https://github.com/bboxlin/researchnetwork", 
-            "imgdir": "img/image-5.png",
+            "title": "Spreadsheet Like Excel",
+            "url": "https://github.com/bboxlin/spreadsheet", 
+            "imgdir": "projectimg/spreadsheet.png",
             "technologies": [
-                "Flask-Python",
-                "SQLite",
-                "HTML",
-                "CSS",
-                "Javascript",
-                "Other Python Libraries"
+                "C#",
+                "Winform",
+                "OOP Design Patterns",
+                "TDD"
             ],
-            "category": "Full Stack Web",
+            "category": "Back End",
             "languages": [
-                "Python"
+                "C#"
             ]
         },
         {
-            "title": "Research Network",
+            "title": "Library Book Management",
             "url": "https://github.com/bboxlin/researchnetwork", 
-            "imgdir": "img/image-5.png",
+            "imgdir": "projectimg/librarymanager.png",
             "technologies": [
                 "Flask-Python",
                 "SQLite",
