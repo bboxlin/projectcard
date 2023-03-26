@@ -1,0 +1,141 @@
+{
+    "title": "Boxiang Lin",
+    "subtitle": "(SW Engineer)",
+    "categories": [
+        "Full Stack Web",
+        "Front End",
+        "Back End",
+        "Mobile App",
+        "FPGA"
+    ],
+    "languages": [
+        "Python",
+        "Go",
+        "Java",
+        "C#",
+        "Javascript",
+        "C/C++",
+        "Verilog"
+    ],
+    "projects": [
+        {
+            "title": "Research Network",
+            "url": "https://github.com/bboxlin/researchnetwork", 
+            "imgdir": "img/image-5.png",
+            "technologies": [
+                "Python",
+                "SQLite",
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Other Python Libraries"
+            ],
+            "category": "Full Stack Web",
+            "languages": [
+                "Python"
+            ]
+        },
+       {
+            "title": "Research Network",
+            "url": "https://github.com/bboxlin/researchnetwork", 
+            "imgdir": "img/image-5.png",
+            "technologies": [
+                "Flask-Python",
+                "SQLite",
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Other Python Libraries"
+            ],
+            "category": "Full Stack Web",
+            "languages": [
+                "Python"
+            ]
+       },
+              {
+            "title": "Research Network",
+            "url": "https://github.com/bboxlin/researchnetwork", 
+            "imgdir": "img/image-5.png",
+            "technologies": [
+                "Flask-Python",
+                "SQLite",
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Other Python Libraries"
+            ],
+            "category": "Full Stack Web",
+            "languages": [
+                "Python"
+            ]
+       },
+        {
+            "title": "Research Network",
+            "url": "https://github.com/bboxlin/researchnetwork", 
+            "imgdir": "img/image-5.png",
+            "technologies": [
+                "Flask-Python",
+                "SQLite",
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Other Python Libraries"
+            ],
+            "category": "Full Stack Web",
+            "languages": [
+                "Python"
+            ]
+        },
+        {
+            "title": "Research Network",
+            "url": "https://github.com/bboxlin/researchnetwork", 
+            "imgdir": "img/image-5.png",
+            "technologies": [
+                "Flask-Python",
+                "SQLite",
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Other Python Libraries"
+            ],
+            "category": "Full Stack Web",
+            "languages": [
+                "Python"
+            ]
+        },
+        {
+            "title": "Research Network",
+            "url": "https://github.com/bboxlin/researchnetwork", 
+            "imgdir": "img/image-5.png",
+            "technologies": [
+                "Flask-Python",
+                "SQLite",
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Other Python Libraries"
+            ],
+            "category": "Full Stack Web",
+            "languages": [
+                "Python"
+            ]
+        },
+        {
+            "title": "Research Network",
+            "url": "https://github.com/bboxlin/researchnetwork", 
+            "imgdir": "img/image-5.png",
+            "technologies": [
+                "Flask-Python",
+                "SQLite",
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Other Python Libraries"
+            ],
+            "category": "Full Stack Web",
+            "languages": [
+                "Python"
+            ]
+        }
+    ]
+}
