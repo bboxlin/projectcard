@@ -21,6 +21,20 @@
     ],
     "projects": [
         {
+            "title": "Campus Safty Mobile App",
+            "url": "https://github.com/unibytes/U-Sheild", 
+            "imgdir": "projectimg/researchnetwork.png",
+            "technologies": [
+                "Flutter",
+                "Go",
+                "MongoDB"
+            ],
+            "languages": [
+                "Flutter",
+                "Go"
+            ]
+        },
+        {
             "title": "Campus Employement Platform",
             "url": "https://github.com/bboxlin/researchnetwork", 
             "imgdir": "projectimg/researchnetwork.png",
@@ -33,7 +47,8 @@
                 "Other Python Libraries"
             ],
             "languages": [
-                "Python"
+                "Python",
+                "Javascript"
             ]
         },
        {
@@ -110,18 +125,37 @@
         },
         {
             "title": "Library Book Management",
-            "url": "https://github.com/bboxlin/researchnetwork", 
+            "url": "https://github.com/bboxlin/librarymanager", 
             "imgdir": "projectimg/librarymanager.png",
             "technologies": [
-                "Flask-Python",
-                "SQLite",
-                "HTML",
-                "CSS",
-                "Javascript",
-                "Other Python Libraries"
+                "Java",
+                "MySQL"
+            ],
+            "languages": [
+                "Java"
+            ]
+        },
+        {
+            "title": "Simulates Postscript Interpreter",
+            "url": "https://github.com/bboxlin/pypostscript", 
+            "imgdir": "projectimg/postscript.png",
+            "technologies": [
+                "Python"
             ],
             "languages": [
                 "Python"
+            ]
+        },
+        {
+            "title": "Stop Watch",
+            "url": "https://github.com/bboxlin/stopwatch", 
+            "imgdir": "projectimg/FPGA.png",
+            "technologies": [
+                "Verilog",
+                "FPGA"
+            ],
+            "languages": [
+                "Verilog"
             ]
         }
     ]
