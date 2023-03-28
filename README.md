@@ -14,10 +14,10 @@
 
 **Desktop view**
 
-![image](https://user-images.githubusercontent.com/57877290/228104992-309bcb26-20bf-436d-a2be-1773c6659e2a.png)
+![image](https://user-images.githubusercontent.com/57877290/228105451-0b101cfc-0819-4b7c-bc3c-a10ba0f3ec0d.png)
 
 
 **Mobile view**
 
-![image](https://user-images.githubusercontent.com/57877290/228105116-8d66b4c1-fd6c-4f9d-900c-e52a8f88cc19.png)
+![image](https://user-images.githubusercontent.com/57877290/228105409-14ca4d9e-93e4-4e3d-9e69-7617fbd9e310.png)
 
