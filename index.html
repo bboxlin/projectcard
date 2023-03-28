@@ -39,21 +39,20 @@
                 <b id="title"></b> <i id="subtitle" class="font-weight-light"></i>
             </a>
         
-            <form class="form-inline mr-1">
-                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <form class="form-inline mr-1" id="searchForm">
+                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search"  id="searchInput">
                 <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
             </form>
         </nav>
    
- 
         
         <!-- filter -->
         <div class="container mt-5 ml-2">
             <b> Filter: </b>
             <select class="form-select" aria-label=".form-select-lg example" id="languages">
-                <option selected value="Languages">Languages</option>
+                <option selected value="default">All Languages</option>
             </select>
-            <a  href="#"> <img src="img/apply.png" width="35" height="35" ></a>
+            <a  id="clicker" href="#"> <img src="img/apply.png" width="35" height="35" ></a>
         </div>
         
         <!-- cards -->
@@ -61,13 +60,30 @@
         </div>
 
 
+        <!-- footer -->
+        <footer>
+            <div class="row mt-5 pt-4 border-top">
+                <div class="col-md-6 col-lg-8">
+                    <p>
+                        Copyright @2023 All rights reserved.
+                    </p>
+                </div>
+                <div class="col-md-6 col-lg-4 text-md-right">
+                    <p class="copyright">This template is made  by <a href="https://github.com/bboxlin" target="_blank">Boxiang Lin</a>
+                    </p>
+                </div>
+            </div>
+        </footer>
     </div>
-
 <script src="js/loader.js"></script>
+<script src="js/filter.js"></script>
+<script src="js/search.js"></script>
 <script>
     $.getJSON("config.json")
         .done(function (config) {
             loadConfig(config)
+            filterClickListener("clicker")
+            searchClickListerner("searchForm")
         })
         .fail(function (jqxhr, textStatus, error) {
             console.error("Error loading config:", textStatus, error);

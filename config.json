@@ -23,7 +23,7 @@
         {
             "title": "Campus Safty Mobile App",
             "url": "https://github.com/unibytes/U-Sheild", 
-            "imgdir": "projectimg/researchnetwork.png",
+            "imgdir": "projectimg/usheild.png",
             "technologies": [
                 "Flutter",
                 "Go",

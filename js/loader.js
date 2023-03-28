@@ -45,7 +45,7 @@ function loadProjects(key, prjs) {
     let projects = $("#" + key)
     prjs.forEach(p => {
         const pd = `
-            <div class="col-md-4 card mb-3 bg-light border-bg-light hover-effect data-languages="${p.languages.join(',')}">
+            <div class="col-md-4 card mb-3 bg-light border-bg-light hover-effect" data-languages="${p.languages.join(',')}">
                 <a href="${p.url}" target="_blank">
                     <div>
                         <img class="rounded-image" width=100% src="${p.imgdir}" style="height: 150px; object-fit: cover;">
